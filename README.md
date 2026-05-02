@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartHotel Agent 🏨
 
 **A Multi-Agent AI System for Intelligent Hotel Discovery and Recommendation**
@@ -189,3 +190,6 @@ smarthotel_agent/
 - LangChain Framework — Agent orchestration
 - SerpAPI — Google Hotels real-time data
 - TripAdvisor Dataset (142k reviews) — Sentiment training data
+=======
+# SmartHotel_AI_Agent
+>>>>>>> 93815479a2bb18e2b421dfeb0d04271cc95c3e96
