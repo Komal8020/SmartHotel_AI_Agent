@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+<<<<<<< HEAD>>>>>>> 93815479a2bb18e2b421dfeb0d04271cc95c3e96
 # SmartHotel Agent 🏨
 
 **A Multi-Agent AI System for Intelligent Hotel Discovery and Recommendation**
 
-Based on the research paper: *"SmartHotel Agent: An Agentic AI System for Intelligent Hotel Discovery and Recommendation in Unknown Locations"* (CIE3 Research Paper, RV University Bengaluru)
+*"SmartHotel Agent: An Agentic AI System for Intelligent Hotel Discovery and Recommendation in Unknown Locations"* 
 
 ---
 
@@ -121,7 +121,6 @@ Returns status of all 5 agents and their active modes.
 
 ---
 
-## 📊 Scoring Formulas (from paper)
 
 ### Composite Score C(h)
 ```
@@ -161,19 +160,8 @@ smarthotel_agent/
 
 ---
 
-## 🔧 Performance Results (from paper)
 
-| Metric | SmartHotel AI | Baseline B1 | Baseline B2 |
-|--------|--------------|-------------|-------------|
-| Sentiment Accuracy | **89.2%** | N/A | N/A |
-| Top-5 Rec. Accuracy | **87.6%** | 71.3% | 68.9% |
-| Personalization P@10 | **0.84** | 0.61 | 0.58 |
-| Avg Response Time | 2.8s | 1.1s | 0.9s |
-| User Satisfaction | **4.3/5** | 3.1 | 2.9 |
-
----
-
-## 🔮 Future Work (from paper)
+## 🔮 Future Work 
 
 - [ ] Switch to LLaMA-2 / Mistral-7B for explanation generation
 - [ ] Feedback loop for continual weight learning (w1–w4)
@@ -189,7 +177,6 @@ smarthotel_agent/
 - Devlin et al. (2019) — BERT: Pre-training of Deep Bidirectional Transformers
 - LangChain Framework — Agent orchestration
 - SerpAPI — Google Hotels real-time data
-- TripAdvisor Dataset (142k reviews) — Sentiment training data
 =======
 # SmartHotel_AI_Agent
->>>>>>> 93815479a2bb18e2b421dfeb0d04271cc95c3e96
+

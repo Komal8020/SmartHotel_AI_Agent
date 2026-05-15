@@ -11,6 +11,7 @@ where
     w3 = 0.30  (sentiment score S from Agent 3)
     w4 = 0.15  (amenity match fraction from Agent 2)
 """
+
 from __future__ import annotations
 
 from config import (
